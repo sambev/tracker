@@ -1,0 +1,15 @@
+body {
+    color: #666;
+    font-family: ‘Lucida Sans Unicode’, ‘Lucida Grande’, sans-serif;
+    background-color: #f2f2f2;
+}
+
+.wide-btn {
+    margin: 5px 0;
+    width: 150px;
+}
+
+.normal-btn {
+    margin: 5px 5px;
+    width: 100px;
+}
